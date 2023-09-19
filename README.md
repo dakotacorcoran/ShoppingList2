@@ -30,3 +30,9 @@
 <li>Cookies</li>
 <li>Crackers</li>
 <li>Granola bars</li> </ul>
+<ul><strong>Dinner</strong>
+<li>Chicken nuggets</li>
+<li>Pork chops</li>
+<li>Rice</li>
+<li>Pasta</li>
+<li>Empanadas</li> </ul>
