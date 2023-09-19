@@ -2,7 +2,7 @@
 <!DOCTYPE html> 
 <html>
 <body>
-<h1>Shoppin List</h1>
+<h1>Shopping List</h1>
 <ul><strong>Fruit</strong>
 <li>Strawberries</li>
 <li>Mangoes</li>
@@ -30,6 +30,7 @@
 <li>Cookies</li>
 <li>Crackers</li>
 <li>Granola bars</li> </ul>
+<br>
 <ul><strong>Dinner</strong>
 <li>Chicken nuggets</li>
 <li>Pork chops</li>
