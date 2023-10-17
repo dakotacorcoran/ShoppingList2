@@ -4,7 +4,8 @@
 <body>
 <h1>Shopping List</h1>
 <ul><strong>Fruit</strong>
-<li>Strawberries</li>
+<li>Strawberries</li> 
+  <a https://www.health.com/strawberries-benefits-7566271><img src=straberries.png.png alt="Straberries" width="50"></a> 
 <li>Mangoes</li>
 <li>Blueberries</li>
 <li>Raspberries</li>
