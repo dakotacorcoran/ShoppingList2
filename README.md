@@ -7,7 +7,7 @@
 <li>Strawberries</li>  <a href= https://www.health.com/strawberries-benefits-7566271><img src=strawberries.png.png alt="Strawberries" width="50" height="50"></a> 
 <li>Mangoes</li> <a href= https://www.today.com/food/how-shop-cut-prep-mangoes-plus-mango-salad-t31521><img src=mangoes2.png alt="Mangoes" width="50" height="50"></a>
 <li>Blueberries</li> <a href= https://www.healthline.com/nutrition/foods/blueberries><img src=blueberries2.png alt="Blueberries" width="50" height="50"></a>
-<li>Raspberries</li> <a href= https://www.britannica.com/plant/raspberry><img src=raspberries .png alt="Raspberries" width="50" height="50"></a>
+<li>Raspberries</li> <a href= https://www.britannica.com/plant/raspberry><img src=raspberries.png alt="Raspberries" width="50" height="50"></a>
 <li>Dragon fruit</li> </body> </ul> <a href= https://www.womenshealthmag.com/food/a31942832/what-is-dragon-fruit/><img src=dragonfruit.png.png alt="Dragon fruit" width="50" height="50"></a>
 <br>
 <ul><strong>Breakfast</strong>
@@ -21,11 +21,11 @@
 <li>Milk</li> <a href= https://www.target.com/p/vitamin-d-whole-milk-1gal-good-38-gather-8482/-/A-13276134><img src=milk.png alt="Milk" width="50" height="50" 
 <li>Pudding</li> <a href= https://www.target.com/p/jell-o-original-chocolate-vanilla-swirls-pudding-cups-snack-15-5oz-4ct/-/A-82822768><img src=pudding.png alt="Pudding" width="50" height="50"></a>
 <li>Yogurt</li> <a href= https://www.generalmillscf.com/products/category/yogurt/bulk/32-ounce/yoplait-lowfat-strawberry><img src=yogurt.png alt="Yogurt" width="50" height="50"></a> 
-<li>Ice cream</li>
-<li>Cheese</li> </ul>
+<li>Ice cream</li> <a href= https://www.tillamook.com/products/ice-cream/udderly-chocolate><img src=icecream.png alt="Icecream" width="50" height="50"></a>
+<li>Cheese</li> </ul> <a href= https://www.usdairy.com/news-articles/cheese-types-what-you-need-to-know-about-cheese><img src=cheese.jpg alt="Cheese" width="50" height="50"></a>
 <br>
-<ul><strong>Snacks</strong>
-<li>Chips</li>
+<ul><strong>Snacks</strong> 
+<li>Chips</li> 
 <li>Fruit snacks</li>
 <li>Cookies</li>
 <li>Crackers</li>
