@@ -7,7 +7,7 @@
 <li>Strawberries</li>  <a href= https://www.health.com/strawberries-benefits-7566271><img src=strawberries.png.png alt="Strawberries" width="50" height="50"></a> 
 <li>Mangoes</li> <a href= https://www.today.com/food/how-shop-cut-prep-mangoes-plus-mango-salad-t31521><img src=mangoes2.png alt="Mangoes" width="50" height="50"></a>
 <li>Blueberries</li> <a href= https://www.healthline.com/nutrition/foods/blueberries><img src=blueberries2.png alt="Blueberries" width="50" height="50"></a>
-<li>Raspberries</li> <a href= https://www.britannica.com/plant/raspberry><img src=raspeberries.png alt="Raspberries" width="50" height="50"></a>
+<li>Raspberries</li> <a href= https://www.britannica.com/plant/raspberry><img src=raspeberries .png alt="Raspberries" width="50" height="50"></a>
 <li>Dragon fruit</li> </body> </ul> <a href= https://www.womenshealthmag.com/food/a31942832/what-is-dragon-fruit/><img src=dragonfruit.png.png alt="Dragon fruit" width="50" height="50"></a>
 <br>
 <ul><strong>Breakfast</strong>
