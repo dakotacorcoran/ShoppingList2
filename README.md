@@ -25,15 +25,15 @@
 <li>Cheese</li> </ul> <a href= https://www.usdairy.com/news-articles/cheese-types-what-you-need-to-know-about-cheese><img src=cheese.jpg alt="Cheese" width="50" height="50"></a>
 <br>
 <ul><strong>Snacks</strong> 
-<li>Chips</li> 
-<li>Fruit snacks</li>
-<li>Cookies</li>
-<li>Crackers</li>
-<li>Granola bars</li> </ul>
+<li>Chips</li> <a href= https://www.heb.com/product-detail/frito-lay-flavor-mix-variety-pack-chips/2309575><img src=chips.webp alt="Chips" width="50" height="50"></a>
+<li>Fruit snacks</li> <a href= https://www.biglots.com/product/welch-s-fruit-snacks-mixed-fruit-0-9-ounces-10-pouches/p110130027><img src=fruitsnacks.webp alt="Fruit Snacks" width="50" height="50"></a>
+<li>Cookies</li> <a href= https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/><img src=cookies.jpeg alt="Cookies" width="50" height="50"></a>
+<li>Crackers</li> <a href= https://www.heb.com/product-detail/central-market-original-water-crackers/3323502><img src= crackers.webp alt="Crackers" width="50" height="50"></a>
+<li>Granola bars</li> </ul> <a href= https://www.heb.com/product-detail/nature-valley-crunchy-oats-n-honey-granola-bars/31792><img src= granolabars.webp alt= "Granola Bars" width="50" height= "50"></a>
 <br>
 <ul><strong>Dinner</strong>
-<li>Chicken nuggets</li>
-<li>Pork chops</li>
-<li>Rice</li>
-<li>Pasta</li>
+<li>Chicken nuggets</li> <a href= https://www.foodnetwork.com/recipes/melissa-darabian/homemade-chicken-nuggets-3416573><img src=chickennuggets.jpeg alt="Chicken nuggets" width="50" height="50"></a>/
+<li>Pork chops</li> <a href= https://www.inspiredtaste.net/37062/juicy-skillet-pork-chops/><img src=porkchops.jpeg alt="Pork chops" width="50" height="50"></a>
+<li>Rice</li> <a href= https://thewanderlustkitchen.com/how-to-cook-perfect-rice/><img src=rice.jpeg alt="Rice" width="50" height="50"></a>
+<li>Pasta</li> 
 <li>Empanadas</li> </ul>
