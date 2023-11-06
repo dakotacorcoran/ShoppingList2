@@ -35,5 +35,5 @@
 <li>Chicken nuggets</li> <a href= https://www.foodnetwork.com/recipes/melissa-darabian/homemade-chicken-nuggets-3416573><img src=chickennuggets.jpeg alt="Chicken nuggets" width="50" height="50"></a>/
 <li>Pork chops</li> <a href= https://www.inspiredtaste.net/37062/juicy-skillet-pork-chops/><img src=porkchops.jpeg alt="Pork chops" width="50" height="50"></a>
 <li>Rice</li> <a href= https://thewanderlustkitchen.com/how-to-cook-perfect-rice/><img src=rice.jpeg alt="Rice" width="50" height="50"></a>
-<li>Pasta</li> 
-<li>Empanadas</li> </ul>
+<li>Pasta</li> <a href= https://www.foodnetwork.com/recipes/photos/5-star-pasta-recipes><img src=pasta.jpeg alt="Pasta" width="50" height="50"></a>
+<li>Empanadas</li> <a href= https://www.177milkstreet.com/recipes/colombian-empanadas><img src=empanadas.jpeg alt="Empanadas" width="50" height="50"></a>
